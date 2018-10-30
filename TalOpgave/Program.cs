@@ -12,14 +12,29 @@ namespace TalOpgave
         {
 
 
-            int a;
-            a = 10;
 
-            a++;
 
-            Console.WriteLine($"a = {a}");
+            int heltal = 10;
+            heltal++;
+            //heltal--;
+            //heltal += 20;
+            Console.WriteLine($"Heltal = {heltal}");
+         
 
-            Console.ReadKey();
+            double kommatal = 12.5;
+            kommatal++;
+            kommatal--;
+            kommatal *= 2;
+            Console.WriteLine($"Kommatal = {kommatal}");
+
+
+            // Hold console åben ved debug
+            if (System.Diagnostics.Debugger.IsAttached)
+            {
+                Console.Write("Press any key to continue . . . ");
+                Console.ReadKey();
+            }
+
 
         }
     }
