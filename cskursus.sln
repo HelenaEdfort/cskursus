@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugDemo", "DebugDemo\DebugDemo.csproj", "{DD8EEA70-5531-42A6-B2D8-B8DB827DA618}"
 EndProject
@@ -26,6 +26,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodeRekursiv", "MetodeRekursiv\MetodeRekursiv.csproj", "{A98A75D5-C8B7-4EB7-A90D-95FAA2712ABA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodeStatisk", "MetodeStatisk\MetodeStatisk.csproj", "{05F37B42-2014-4A8E-9661-88A948B6D393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodeNullable", "MetodeNullable\MetodeNullable.csproj", "{F3C7D4EC-02BC-4CF2-A603-B311808F05BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlSimpleOpgave", "FejlSimpleOpgave\FejlSimpleOpgave.csproj", "{0CFA69A9-CE41-437E-BD0E-A5DB418E4909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlEgenException", "FejlEgenException\FejlEgenException.csproj", "{6D1660BF-FF16-4901-B120-14FD9E562464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{05F37B42-2014-4A8E-9661-88A948B6D393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F37B42-2014-4A8E-9661-88A948B6D393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F37B42-2014-4A8E-9661-88A948B6D393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C7D4EC-02BC-4CF2-A603-B311808F05BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C7D4EC-02BC-4CF2-A603-B311808F05BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C7D4EC-02BC-4CF2-A603-B311808F05BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C7D4EC-02BC-4CF2-A603-B311808F05BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFA69A9-CE41-437E-BD0E-A5DB418E4909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFA69A9-CE41-437E-BD0E-A5DB418E4909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFA69A9-CE41-437E-BD0E-A5DB418E4909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFA69A9-CE41-437E-BD0E-A5DB418E4909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1660BF-FF16-4901-B120-14FD9E562464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1660BF-FF16-4901-B120-14FD9E562464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1660BF-FF16-4901-B120-14FD9E562464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1660BF-FF16-4901-B120-14FD9E562464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
