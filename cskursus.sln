@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlEgenException", "FejlEg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HukommelseStructClass", "HukommelseStructClass\HukommelseStructClass.csproj", "{1E8AC27A-A2FD-4834-8314-6FAB69323AF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlasserSimpelOpgave", "KlasserSimpelOpgave\KlasserSimpelOpgave.csproj", "{C92C9990-2109-46BA-86C9-36197CE86772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{1E8AC27A-A2FD-4834-8314-6FAB69323AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8AC27A-A2FD-4834-8314-6FAB69323AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8AC27A-A2FD-4834-8314-6FAB69323AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92C9990-2109-46BA-86C9-36197CE86772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92C9990-2109-46BA-86C9-36197CE86772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92C9990-2109-46BA-86C9-36197CE86772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92C9990-2109-46BA-86C9-36197CE86772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
