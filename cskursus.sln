@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenskabAutomatiskOpgave", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenskabGetterOpgave", "EgenskabGetterOpgave\EgenskabGetterOpgave.csproj", "{08DDAD42-5127-490B-8332-7896ACD168C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysSimpelOpgave", "ArraysSimpelOpgave\ArraysSimpelOpgave.csproj", "{6F71307F-3E95-4F88-A1FA-29526896D92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysSplitOpgave", "ArraysSplitOpgave\ArraysSplitOpgave.csproj", "{A6F75082-04B3-4CCC-9F83-059FE437F58D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{08DDAD42-5127-490B-8332-7896ACD168C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08DDAD42-5127-490B-8332-7896ACD168C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08DDAD42-5127-490B-8332-7896ACD168C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F71307F-3E95-4F88-A1FA-29526896D92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F71307F-3E95-4F88-A1FA-29526896D92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F71307F-3E95-4F88-A1FA-29526896D92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F71307F-3E95-4F88-A1FA-29526896D92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F75082-04B3-4CCC-9F83-059FE437F58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F75082-04B3-4CCC-9F83-059FE437F58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F75082-04B3-4CCC-9F83-059FE437F58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F75082-04B3-4CCC-9F83-059FE437F58D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
