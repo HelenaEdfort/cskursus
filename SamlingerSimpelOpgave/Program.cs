@@ -10,13 +10,13 @@ namespace SamlingerSimpelOpgave
     {
         static void Main(string[] args)
         {
-            List<Person> lst1 = new List<Person>();
+            List<Person> liste1 = new List<Person>();
 
-            lst1.Add(new Person() { Id = 1, Navn = "Augusta" });
-            lst1.Add(new Person() { Id = 2, Navn = "Victoria" });
-            lst1.Add(new Person() { Id = 3, Navn = "Jacob" });
+            liste1.Add(new Person() { Id = 1, Navn = "Augusta" });
+            liste1.Add(new Person() { Id = 2, Navn = "Victoria" });
+            liste1.Add(new Person() { Id = 3, Navn = "Jacob" });
 
-            foreach (var item in lst1)
+            foreach (var item in liste1)
             {
                 Console.WriteLine(item.Navn);
             }
