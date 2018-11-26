@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvTerningSimpelOpgave", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceCompareOpgave", "InterfaceCompareOpgave\InterfaceCompareOpgave.csproj", "{252450D5-192D-4CFD-8986-1056021E7039}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEgetOpgave", "InterfaceEgetOpgave\InterfaceEgetOpgave.csproj", "{AA0A0402-255B-4C5A-9E47-AE23A4ABB95D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{252450D5-192D-4CFD-8986-1056021E7039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{252450D5-192D-4CFD-8986-1056021E7039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{252450D5-192D-4CFD-8986-1056021E7039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0A0402-255B-4C5A-9E47-AE23A4ABB95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0A0402-255B-4C5A-9E47-AE23A4ABB95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0A0402-255B-4C5A-9E47-AE23A4ABB95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0A0402-255B-4C5A-9E47-AE23A4ABB95D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
