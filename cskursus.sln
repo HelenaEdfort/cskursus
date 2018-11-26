@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysSplitOpgave", "Arrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamlingerSimpelOpgave", "SamlingerSimpelOpgave\SamlingerSimpelOpgave.csproj", "{AA48297E-C1FB-4AF6-A2F0-83CA74776BE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvSimpelOpgave", "ArvSimpelOpgave\ArvSimpelOpgave.csproj", "{31D2A85B-6EC1-467B-9A2E-9E7272F7CE28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{AA48297E-C1FB-4AF6-A2F0-83CA74776BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA48297E-C1FB-4AF6-A2F0-83CA74776BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA48297E-C1FB-4AF6-A2F0-83CA74776BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D2A85B-6EC1-467B-9A2E-9E7272F7CE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D2A85B-6EC1-467B-9A2E-9E7272F7CE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D2A85B-6EC1-467B-9A2E-9E7272F7CE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D2A85B-6EC1-467B-9A2E-9E7272F7CE28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
