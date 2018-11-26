@@ -1,0 +1,45 @@
+﻿namespace ArvTerningPolymorfiOpgave
+{
+    class LudoTerning : Terning
+    {
+        public bool ErGlobus()
+        {
+            return this.Værdi == 3;
+
+        }
+
+        public bool ErStjerne()
+        {
+            return this.Værdi == 5;
+        }
+
+        // Default og custom constructor der kalder ”mor” uden yderligere funktionalitet
+
+        public LudoTerning() : base()
+        { }
+
+        public LudoTerning(int værdi) : base(værdi)
+        { }
+
+        public override void Skriv()
+        {
+            switch (this.Værdi)
+            {
+                case 3:
+                    Console.WriteLine("[G]");
+                    break;
+                case 5:
+                    Console.WriteLine("[S]");
+                    break;
+                default:
+                    base.Skriv();
+                    break;
+            }
+
+        }
+
+
+    }
+
+
+}
